@@ -3,3 +3,5 @@
 __pycache__/
 *.pyc
 *.blend.crash.txt
+*.blend1
+*.blend2
